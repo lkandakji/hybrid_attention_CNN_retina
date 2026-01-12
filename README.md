@@ -52,10 +52,3 @@ The script will:
 ├── draft_paper.md
 └── README.md
 ```
-
-## Deliverables
-
-- **[Literature Review](literature_review.md):** A comprehensive review of the relevant literature.
-- **[Comparative Analysis](comparative_analysis.md):** A comparative analysis of the proposed algorithm with existing methods.
-- **[Case Study](case_study.md):** A detailed case study of the project.
-- **[Draft Paper](draft_paper.md):** A draft paper summarizing the research and findings.
