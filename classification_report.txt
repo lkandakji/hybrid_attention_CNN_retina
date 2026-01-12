@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+         amd       0.25      0.20      0.22        20
+          dr       0.25      0.40      0.31        20
+    glaucoma       0.00      0.00      0.00        20
+      normal       0.25      0.40      0.31        20
+
+    accuracy                           0.25        80
+   macro avg       0.19      0.25      0.21        80
+weighted avg       0.19      0.25      0.21        80
